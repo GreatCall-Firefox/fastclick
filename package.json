@@ -1,5 +1,5 @@
 {
-  "name": "fastclick",
+  "name": "closure-fastclick",
   "version": "1.0.6",
   "description": "Polyfill to remove click delays on browsers with touch UIs.",
   "maintainers": [
@@ -21,6 +21,11 @@
     {
       "name": "Matthew Caruana Galizia",
       "email": "m@m.cg"
+    },
+    ,
+    {
+      "name": "Christopher Van Kirk",
+      "email": "christopher.vankirk@greatcall.com"
     }
   ],
   "main": "lib/fastclick.js",
