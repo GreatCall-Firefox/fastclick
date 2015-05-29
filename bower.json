@@ -1,5 +1,5 @@
 {
-  "name": "fastclick",
+  "name": "closure-fastclick",
   "main": "lib/fastclick.js",
   "ignore": [
     "**/.*",
